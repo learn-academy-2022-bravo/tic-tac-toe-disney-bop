@@ -6,6 +6,14 @@ This project will challenge your knowledge of React but should also be an exerci
 
 ### User Stories:
 - As a user, I should start off seeing a 3x3 grid on the main page.
+- Remember to pull down all the dependencies from the prebuilt application $ yarn
+- $ yarn start
+- destructure squares from state object
+- map across the squares array considering value to allow each value be enscapulated by a square
+- pass the value and index through props on the component call
+- Update css to center the grid and styling for game body
+
+
 - As a user, I should be able to click on a square to mark it.
 - As a user, my partner should be able to click on a square after me and see their mark.
 - As a user, I shouldn't be able to click on a square that has already been selected.
