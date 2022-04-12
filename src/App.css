@@ -1,5 +1,18 @@
+body {
+  text-align: center;
+  background-color: rgb(171, 163, 187);
+}
+
 .square{
   height: 100px;
   width: 100px;
   border: 2px solid black;
 }
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 320px;
+  margin: 0 auto;
+}
+
